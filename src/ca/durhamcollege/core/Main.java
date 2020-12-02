@@ -17,6 +17,7 @@ public class Main {
         // instantiates the collection container
         Vector<Vector2D> points = new Vector<Vector2D>();
 
+
         // builds a Vector of 4 points
         for (int i = 0; i < numOfPoints; i++)
         {
